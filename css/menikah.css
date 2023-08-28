@@ -22,19 +22,17 @@ html {
 .navbar-item {
   line-height: 38px;
   font-weight: 600;
-  text-transform: ;
   letter-spacing: 1px;
   font-size: 1rem;
-  box-shadow:  ;
 }
 
 .navbar-item.is-active{
   border-bottom: 2px solid #996E6D;
 }
 
-.a.navbar-item{
+/* .a.navbar-item{
   font-color: #996E6D;
-}
+} */
 
 
 .hero {
@@ -90,7 +88,6 @@ html {
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop {
   line-height: 38px;
   font-weight: 600;
-  text-transform: ;
   letter-spacing: 1px;
   font-size: 1rem;
 }
@@ -334,7 +331,6 @@ vertical-align: middle;
 .tempat {
   font-size: 1.4rem;
   font-family: 'Raleway', sans-serif;
-  font-size: ;
   margin-bottom: 50px;
 }
 
@@ -582,7 +578,7 @@ body.preloader-site {
 }
 
 .foto3 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../patypaco/20230724_211420.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../patypaco/IMG-20230824-WA0022.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -590,7 +586,7 @@ body.preloader-site {
 }
 
 .foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../patypaco/20230804_230238.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../patypaco/FB_IMG_1692910046294.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -598,7 +594,7 @@ body.preloader-site {
 }
 
 .foto5 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../patypaco/20230806_164154.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../patypaco/IMG-20230824-WA0044.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -607,7 +603,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../patypaco/6.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../patypaco/foto6.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
